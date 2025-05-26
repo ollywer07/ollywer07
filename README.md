@@ -1,4 +1,4 @@
-# Perfil de Desenvolvimento - Vitor Oliveira
+# Vitor Oliveira
 
 ## Sobre mim
 Desenvolvedor focado em tecnologias modernas para desenvolvimento web e mobile, com experiência em backend, frontend e bancos de dados. Apaixonado por criar soluções robustas e eficientes que atendam às necessidades reais dos usuários.
@@ -12,6 +12,7 @@ Desenvolvedor focado em tecnologias modernas para desenvolvimento web e mobile, 
 - **Ionic Framework** – Desenvolvimento de aplicações mobile híbridas com alta performance.
 - **PostgreSQL** & **SQL Server** – Gerenciamento e otimização de bancos de dados relacionais.
 - **Maker** – Automação e criação de soluções low-code/no-code.
+- **Python** – Integrações com OpenAI para criação de assistentes inteligentes e automação avançada.
 
 ## Habilidades principais
 

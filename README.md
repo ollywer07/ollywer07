@@ -1,16 +1,32 @@
-## Hi there 👋
+# Perfil de Desenvolvimento - Vitor Oliveira
 
-<!--
-**ollywer07/ollywer07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Desenvolvedor focado em tecnologias modernas para desenvolvimento web e mobile, com experiência em backend, frontend e bancos de dados. Apaixonado por criar soluções robustas e eficientes que atendam às necessidades reais dos usuários.
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tecnologias:**
+
+- **Java** & **Spring Boot** – Desenvolvimento backend escalável e seguro.
+- **HTML**, **CSS**, **JavaScript** e **TypeScript** – Construção de interfaces responsivas e dinâmicas.
+- **Ionic Framework** – Desenvolvimento de aplicações mobile híbridas com alta performance.
+- **PostgreSQL** & **SQL Server** – Gerenciamento e otimização de bancos de dados relacionais.
+- **Maker** – Automação e criação de soluções low-code/no-code.
+
+## Habilidades principais
+
+- Criação de APIs RESTful com Spring Boot
+- Desenvolvimento frontend com Angular/Ionic
+- Design responsivo e usabilidade
+- Integração com bancos de dados SQL
+- Gerenciamento de projetos e versionamento com Git/GitHub
+- Deploy e manutenção de aplicações
+
+## Contato
+
+- Email: vsoliveirads@gmail.com  
+- GitHub: [github.com/ollywer07](https://github.com/ollywer07)  
+
+---
+
+Sempre aberto a novos desafios, projetos colaborativos e oportunidades para aprender e crescer.

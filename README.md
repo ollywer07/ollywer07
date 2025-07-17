@@ -1,38 +1,49 @@
----
 # Vitor Oliveira 🚀
 
-## Sobre mim 🧑‍💻
+## 👨‍💻 Sobre mim
 
-Desenvolvedor focado em tecnologias modernas para desenvolvimento web e mobile, com experiência em backend, frontend e bancos de dados. Apaixonado por criar soluções robustas e eficientes que atendam às necessidades reais dos usuários. 💡✨
+Desenvolvedor full stack com foco em tecnologias modernas para aplicações web e mobile. Tenho sólida experiência em **back-end com Java e Spring Boot**, criação de **interfaces responsivas** e desenvolvimento de **aplicativos híbridos** com Ionic. Sou apaixonado por criar soluções robustas, escaláveis e voltadas para resultados reais.  
 
-## Tecnologias e Ferramentas 🛠️
-
-💻 **Tecnologias:**
-
-* ☕ **Java** & 🚀 **Spring Boot** – Desenvolvimento backend escalável e seguro.
-* 🌐 **HTML**, 🎨 **CSS**, 💻 **JavaScript** e 🦜 **TypeScript** – Construção de interfaces responsivas e dinâmicas.
-* 📱 **Ionic Framework** – Desenvolvimento de aplicações mobile híbridas com alta performance.
-* 🐘 **PostgreSQL** & 🗄️ **SQL Server** – Gerenciamento e otimização de bancos de dados relacionais.
-* ⚙️ **Maker** – Automação e criação de soluções low-code/no-code.
-* 🐍 **Python** – Integrações com 🤖 OpenAI para criação de assistentes inteligentes e automação avançada.
-
-## Habilidades principais 🚀
-
-* 🔧 Criação de APIs RESTful com Spring Boot
-* 🎯 Desenvolvimento frontend com Angular/Ionic
-* 📐 Design responsivo e usabilidade
-* 🔗 Integração com bancos de dados SQL
-* 🗃️ Gerenciamento de projetos e versionamento com Git/GitHub
-* ☁️ Deploy e manutenção de aplicações
-
-## Contato 📫
-
-* ✉️ Email: [vsoliveirads@gmail.com](mailto:vsoliveirads@gmail.com)
-* 🐙 GitHub: [github.com/ollywer07](https://github.com/ollywer07)
+Atualmente, venho explorando o universo da **Inteligência Artificial aplicada**, com destaque para integrações com **modelos de linguagem (LLMs)** e automações com **APIs generativas**.
 
 ---
 
-Sempre aberto a novos desafios, projetos colaborativos e oportunidades para aprender e crescer. 🌟🤝
+## 🧠 Inteligência Artificial & LLMs
+
+* 🔍 Estudo contínuo sobre **Machine Learning**, **Arquiteturas de LLMs** e suas aplicações práticas.
+* 🤖 Integração com **OpenAI** e uso de frameworks como **LangChain** e **scikit-learn**.
+* 🛠️ Criação de uma ferramenta própria para facilitar o uso de IA em projetos reais — foco em agilidade e acessibilidade para times de desenvolvimento.
 
 ---
 
+## 🛠️ Tecnologias & Ferramentas
+
+**💻 Linguagens e Frameworks**
+- ☕ Java & Spring Boot – Back-end seguro, performático e escalável
+- 🐍 Python – Scripts, automações e integrações com IA
+- 🌐 HTML, CSS, JavaScript, TypeScript – Interfaces modernas e funcionais
+- 📱 Ionic Framework – Apps híbridos com excelente performance
+- ⚙️ Maker – Soluções rápidas com low-code/no-code
+
+**🗄️ Bancos de Dados**
+- 🐘 PostgreSQL
+- 🗃️ SQL Server
+- 🟠 Oracle
+
+**🔧 Outras habilidades**
+- 📡 Criação de APIs RESTful
+- 📐 Design responsivo e foco em usabilidade
+- 🔗 Integrações com IA, serviços externos e bancos
+- 💾 Git/GitHub para versionamento
+- ☁️ Deploy e manutenção de aplicações
+
+---
+
+## 📬 Contato
+
+- ✉️ Email: [vsoliveirads@gmail.com](mailto:vsoliveirads@gmail.com)  
+- 🐙 GitHub: [github.com/ollywer07](https://github.com/ollywer07)
+
+---
+
+🚀 Sempre aberto a novos desafios, projetos inovadores e colaborações que envolvam tecnologia, IA e propósito. Vamos conversar?
